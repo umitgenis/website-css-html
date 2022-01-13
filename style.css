@@ -1,0 +1,57 @@
+/* web site ekranın ortasında olsun */
+body {
+    /* background-color: #c7fff8 ; */
+
+    font-family: 'Libre Baskerville', serif;
+
+    font-family: 'Luxurious Roman', cursive;
+
+    font-family: 'Mochiy Pop P One', sans-serif;
+
+    font-family: 'Neonderthaw', cursive;
+
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+/* ********************************** */
+#websitecenter {
+    text-align: center;
+}
+
+/* ********************************** */
+.a-tag {
+    color: blue;
+}
+
+/* Bütün linkler mavi olsun, sayfa içi linkleri dahil */
+a {
+    color: blue;
+}
+
+h1 {
+    font-size: 35px;
+    color: rgb(20, 121, 121);
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(20, 121, 121);
+}
+
+p {
+    font-size: 20px;
+}
+
+.font-size-20 {
+    font-size: 20px;
+    color: rgb(20, 121, 121);
+}
+
+#liste-isaret-inside {
+    list-style-position: inside;
+}
+
+
+
+
+
